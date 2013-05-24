@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-gem 'rake', '~>0.9.2'
+gem 'rake', '>=0.9.2'
 gem 'rails', '>= 3.1.1'
 
 group :development, :test do
